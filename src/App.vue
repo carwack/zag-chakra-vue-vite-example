@@ -1,9 +1,11 @@
 <script setup lang="ts">
 import Toggle from './components/Toggle.vue';
+import Accordion from './components/Accordion.vue';
 </script>
 
 <template>
   <Toggle />
+  <Accordion />
 </template>
 
 <style>

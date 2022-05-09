@@ -774,6 +774,16 @@
   dependencies:
     vue-demi "*"
 
+"@zag-js/accordion@^0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@zag-js/accordion/-/accordion-0.1.2.tgz#ff56de958c8935a22e6aef74fc3bd430f73fa559"
+  integrity sha512-lZoqrxa9dksh5ea5GG5qfvA81n3y62SRoAwQNgaaD4FFOI/1j+j3A9xPdfmfRMMUK2O2CkmtMsQMPIiQC+zXUA==
+  dependencies:
+    "@zag-js/core" "0.1.2"
+    "@zag-js/dom-utils" "0.1.0"
+    "@zag-js/types" "0.1.0"
+    "@zag-js/utils" "0.1.0"
+
 "@zag-js/core@0.1.2":
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/@zag-js/core/-/core-0.1.2.tgz#52cd45698a448d69d60974c0f8215c837315116c"

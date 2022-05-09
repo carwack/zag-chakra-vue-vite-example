@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@chakra-ui/vue-next": "^1.0.0-alpha.15",
+    "@zag-js/accordion": "^0.1.2",
     "@zag-js/toggle": "^0.1.2",
     "@zag-js/vue": "^0.1.3",
     "vue": "^3.2.25"
