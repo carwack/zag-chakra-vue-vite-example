@@ -2,7 +2,7 @@
 import * as accordion from "@zag-js/accordion"
 import { useMachine, useSetup, normalizeProps } from "@zag-js/vue"
 import { computed } from "vue"
-import { CBox, CButton, chakra } from "@chakra-ui/vue-next"
+import { CBox, chakra } from "@chakra-ui/vue-next"
 
 const items = [
   {
@@ -69,4 +69,4 @@ const api = computed(() =>
       </c-box>
     </c-box>
   </c-box>
-</template>
+</template> 
