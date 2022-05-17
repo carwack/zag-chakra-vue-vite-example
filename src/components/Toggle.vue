@@ -10,7 +10,7 @@ const api = computed(() => toggle.connect(state.value, send, normalizeProps))
 </script>
 
 <template>
-  <c-button ref="ref" v-bind="api.buttonProps">
+  <CButton ref="ref" v-bind="api.buttonProps">
     {{ api.isPressed }}
-  </c-button>
+  </CButton>
 </template>
