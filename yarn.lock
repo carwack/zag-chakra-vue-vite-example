@@ -896,6 +896,16 @@
   resolved "https://registry.yarnpkg.com/@zag-js/number-utils/-/number-utils-0.1.2.tgz#d58aa5f988a67aacc6bca92e56ab3349d993d260"
   integrity sha512-ZcIDK5VqCzGRA/ppvuxY0gFyf59lBurVqsejqo0DHLNUN9KmwhYX9BedcSfyFxqIVWc58+3995okn54VCEQdMQ==
 
+"@zag-js/pin-input@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@zag-js/pin-input/-/pin-input-0.1.4.tgz#222ef494ba5ac6311916d654e3251898d006f111"
+  integrity sha512-KIIeQ8HGvPmd97ZhilSqRhuzT+r6zft6ULwdRsTNMa2SZgK61jgatXYMr7Kz/Mk+H+f1yHCsg3AFTrDIvSJhog==
+  dependencies:
+    "@zag-js/core" "0.1.4"
+    "@zag-js/dom-utils" "0.1.1"
+    "@zag-js/types" "0.1.1"
+    "@zag-js/utils" "0.1.1"
+
 "@zag-js/popper@0.1.2":
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/@zag-js/popper/-/popper-0.1.2.tgz#1956cb1746a67dfe34788c6aa1e26a7ac87aeb4a"

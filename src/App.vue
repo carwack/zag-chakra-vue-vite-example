@@ -5,6 +5,7 @@ import Dialog from './components/Dialog.vue'
 import Editable from './components/Editable.vue'
 import Menu from './components/Menu.vue'
 import NumberInput from './components/NumberInput.vue'
+import PinInput from './components/PinInput.vue'
 </script>
 
 <template>
@@ -14,6 +15,7 @@ import NumberInput from './components/NumberInput.vue'
   <Editable />
   <Menu />
   <NumberInput />
+  <PinInput />
 </template>
 
 <style>
