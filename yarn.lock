@@ -879,6 +879,23 @@
     "@zag-js/types" "0.1.1"
     "@zag-js/utils" "0.1.1"
 
+"@zag-js/number-input@^0.1.4":
+  version "0.1.4"
+  resolved "https://registry.yarnpkg.com/@zag-js/number-input/-/number-input-0.1.4.tgz#65dcab01649a2e87f984026b19ebc9eda36d2e03"
+  integrity sha512-IZtY7bTH2TJ5hL4Avwq1EPaYrbY5woJxAGMc1JFvmRQwremg0u2MbSSWZUETcNrTX/3u16iW14V1R8lliapyFA==
+  dependencies:
+    "@zag-js/core" "0.1.4"
+    "@zag-js/dom-utils" "0.1.1"
+    "@zag-js/number-utils" "0.1.2"
+    "@zag-js/rect-utils" "0.1.1"
+    "@zag-js/types" "0.1.1"
+    "@zag-js/utils" "0.1.1"
+
+"@zag-js/number-utils@0.1.2":
+  version "0.1.2"
+  resolved "https://registry.yarnpkg.com/@zag-js/number-utils/-/number-utils-0.1.2.tgz#d58aa5f988a67aacc6bca92e56ab3349d993d260"
+  integrity sha512-ZcIDK5VqCzGRA/ppvuxY0gFyf59lBurVqsejqo0DHLNUN9KmwhYX9BedcSfyFxqIVWc58+3995okn54VCEQdMQ==
+
 "@zag-js/popper@0.1.2":
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/@zag-js/popper/-/popper-0.1.2.tgz#1956cb1746a67dfe34788c6aa1e26a7ac87aeb4a"

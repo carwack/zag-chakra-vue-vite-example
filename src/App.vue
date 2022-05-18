@@ -4,6 +4,7 @@ import Accordion from './components/Accordion.vue'
 import Dialog from './components/Dialog.vue'
 import Editable from './components/Editable.vue'
 import Menu from './components/Menu.vue'
+import NumberInput from './components/NumberInput.vue'
 </script>
 
 <template>
@@ -12,6 +13,7 @@ import Menu from './components/Menu.vue'
   <Dialog />
   <Editable />
   <Menu />
+  <NumberInput />
 </template>
 
 <style>

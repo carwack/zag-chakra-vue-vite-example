@@ -14,6 +14,7 @@
     "@zag-js/dialog": "^0.1.3",
     "@zag-js/editable": "^0.1.3",
     "@zag-js/menu": "^0.1.4",
+    "@zag-js/number-input": "^0.1.4",
     "@zag-js/toggle": "^0.1.2",
     "@zag-js/vue": "^0.1.3",
     "vue": "^3.2.25"
