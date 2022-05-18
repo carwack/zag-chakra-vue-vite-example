@@ -1,11 +1,17 @@
 <script setup lang="ts">
-import Toggle from './components/Toggle.vue';
-import Accordion from './components/Accordion.vue';
+import Toggle from './components/Toggle.vue'
+import Accordion from './components/Accordion.vue'
+import Dialog from './components/Dialog.vue'
+import Editable from './components/Editable.vue'
+import Menu from './components/Menu.vue'
 </script>
 
 <template>
   <Toggle />
   <Accordion />
+  <Dialog />
+  <Editable />
+  <Menu />
 </template>
 
 <style>
