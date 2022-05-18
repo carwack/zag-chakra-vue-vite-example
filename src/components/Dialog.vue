@@ -18,7 +18,7 @@ const saveChanges = () => {
 
 <template>
   <CButton ref="ref" v-bind="api.triggerProps">Open Dialog</CButton>
-  <Teleport>
+  <Teleport to="body">
     <div v-if="api.isOpen" className="modal">
       <CBox
         position="fixed"

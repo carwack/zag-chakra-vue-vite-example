@@ -21,7 +21,7 @@ const data = [
     <chakra.button display="inline-block" size="sm" color-scheme="green" v-bind="api.triggerProps">
       Actions <chakra.span ml="1" aria-hidden>▾</chakra.span>
     </chakra.button>
-    <CBox v-bind="api.positionerProps">
+    <CBox z-index="modal" v-bind="api.positionerProps">
       <chakra.ul
         bg="white"
         width="240px"
